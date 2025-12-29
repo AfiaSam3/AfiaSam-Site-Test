@@ -1,0 +1,33 @@
+Privacy Policy for AfiaSam Manager
+
+Last Updated: December 29, 2025
+
+1. Introduction
+AfiaSam Manager ("we", "our", or "us") provides a software solution developed to assist in the management of e-commerce operations. This Privacy Policy explains how our application handles data retrieved from the TikTok Shop Open Platform.
+
+2. Data Collection
+Our application accesses the following data from your TikTok Shop seller account via the official API:
+
+Order Information: Order IDs, status, timestamps, and pricing details.
+
+Product Information: SKU, product names, and inventory levels.
+
+fulfillment Data: Shipping tracking numbers and carrier information.
+
+3. Use of Data
+The data collected is used solely for the following internal business purposes:
+
+Generating sales reports and financial statements.
+
+Automating invoice creation.
+
+Synchronizing inventory across internal systems.
+
+4. Data Sharing and Disclosure
+We do not sell, trade, or transfer your data to outside parties. Data is processed locally within the application environment or stored in our secure internal databases for the purposes described above.
+
+5. Data Retention
+We retain order data only as long as necessary to fulfill legal, tax, and accounting requirements associated with our business operations.
+
+6. Contact Us
+If you have questions about this Privacy Policy, please contact us at: mktplace.afiasam@gmail.com
